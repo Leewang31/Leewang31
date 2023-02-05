@@ -1,13 +1,13 @@
 ![image](https://raw.githubusercontent.com/Leewang31/Leewang31/ed699f9d529d0366c913f9adfbece99ad97c4cb6/Study%20Tree.svg)
-
-<br/>
-
+  <br/><br/>
 <div align=center> 
   
   ✨매일 매일 조금씩 성장하는 **프런트 엔드 개발자** 가 되고 싶은 이기완이라고 합니다 ✨
+  
+  ![Leewang31's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewang31&show_icons=true)
 
 </div>
-
+<br/><br/>
 <div align=center><h1>📚 Main Stack 📚</h1></div>
 
 <div align=center> 
@@ -45,11 +45,6 @@
 
 <br/>
 
-<div align=center>
-  
-![Leewang31's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewang31&show_icons=true)
-  
-  </div>
 <div align=center><h1>
   💌Blog 💌</h1></div>
 

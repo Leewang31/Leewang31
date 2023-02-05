@@ -50,3 +50,13 @@
 ![Leewang31's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewang31&show_icons=true)
   
   </div>
+<div align=center><h1>💡 Blog 💡</h1></div>
+
+<div align=center> 
+  
+  <a href="https://gregarious-yarrow-f20.notion.site/diTTo-bLog-1cac7be01543471f8f65e387858e8ea5"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </a>
+  
+  <br>
+</div>
+
+<br/>

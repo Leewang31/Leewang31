@@ -4,7 +4,7 @@
 
 <div align=center> 
   
-  ✨매일 매일 조금씩 성장하는 **프론트 엔드 개발자** 가 되고 싶은 이기완이라고 합니다 ✨
+  ✨매일 매일 조금씩 성장하는 **프런트 엔드 개발자** 가 되고 싶은 이기완이라고 합니다 ✨
 
 </div>
 
@@ -50,7 +50,8 @@
 ![Leewang31's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewang31&show_icons=true)
   
   </div>
-<div align=center><h1>💡 Blog 💡</h1></div>
+<div align=center><h1>
+  💌Blog 💌</h1></div>
 
 <div align=center> 
   
